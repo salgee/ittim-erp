@@ -1,0 +1,512 @@
+{
+    "RECORDS": [{
+	"id": "209",
+	"country_id": "226",
+	"code": "AK",
+	"name": "Alaska",
+	"cname": "阿拉斯加",
+	"lower_name": "alaska",
+	"code_full": "USA0AK",
+	"area_id": ""
+},
+{
+	"id": "210",
+	"country_id": "226",
+	"code": "AL",
+	"name": "Alabama",
+	"cname": "阿拉巴马",
+	"lower_name": "alabama",
+	"code_full": "USA0AL",
+	"area_id": "5"
+},
+{
+	"id": "211",
+	"country_id": "226",
+	"code": "AR",
+	"name": "Arkansas",
+	"cname": "阿肯色",
+	"lower_name": "arkansas",
+	"code_full": "USA0AR",
+	"area_id": "5"
+},
+{
+	"id": "212",
+	"country_id": "226",
+	"code": "AZ",
+	"name": "Arizona",
+	"cname": "亚利桑那",
+	"lower_name": "arizona",
+	"code_full": "USA0AZ",
+	"area_id": "9"
+},
+{
+	"id": "213",
+	"country_id": "226",
+	"code": "CA",
+	"name": "California",
+	"cname": "加利福尼亚",
+	"lower_name": "california",
+	"code_full": "USA0CA",
+	"area_id": "8"
+},
+{
+	"id": "214",
+	"country_id": "226",
+	"code": "CO",
+	"name": "Colorado",
+	"cname": "科罗拉多",
+	"lower_name": "colorado",
+	"code_full": "USA0CO",
+	"area_id": "7"
+},
+{
+	"id": "215",
+	"country_id": "226",
+	"code": "CT",
+	"name": "Connecticut",
+	"cname": "康涅狄格",
+	"lower_name": "connecticut",
+	"code_full": "USA0CT",
+	"area_id": "1"
+},
+{
+	"id": "216",
+	"country_id": "226",
+	"code": "DC",
+	"name": "District of Columbia",
+	"cname": "哥伦比亚特区",
+	"lower_name": "district of columbia",
+	"code_full": "USA0DC",
+	"area_id": ""
+},
+{
+	"id": "217",
+	"country_id": "226",
+	"code": "DE",
+	"name": "Delaware",
+	"cname": "特拉华",
+	"lower_name": "delaware",
+	"code_full": "USA0DE",
+	"area_id": "2"
+},
+{
+	"id": "218",
+	"country_id": "226",
+	"code": "FL",
+	"name": "Florida",
+	"cname": "佛罗里达",
+	"lower_name": "florida",
+	"code_full": "USA0FL",
+	"area_id": "3"
+},
+{
+	"id": "219",
+	"country_id": "226",
+	"code": "GA",
+	"name": "Georgia",
+	"cname": "佐治亚",
+	"lower_name": "georgia",
+	"code_full": "USA0GA",
+	"area_id": "3"
+},
+{
+	"id": "220",
+	"country_id": "226",
+	"code": "HI",
+	"name": "Hawaii",
+	"cname": "夏威夷",
+	"lower_name": "hawaii",
+	"code_full": "USA0HI",
+	"area_id": ""
+},
+{
+	"id": "221",
+	"country_id": "226",
+	"code": "IA",
+	"name": "Iowa",
+	"cname": "爱荷华",
+	"lower_name": "iowa",
+	"code_full": "USA0IA",
+	"area_id": "6"
+},
+{
+	"id": "222",
+	"country_id": "226",
+	"code": "ID",
+	"name": "Idaho",
+	"cname": "爱达荷",
+	"lower_name": "idaho",
+	"code_full": "USA0ID",
+	"area_id": "7"
+},
+{
+	"id": "223",
+	"country_id": "226",
+	"code": "IL",
+	"name": "Illinois",
+	"cname": "伊利诺斯",
+	"lower_name": "illinois",
+	"code_full": "USA0IL",
+	"area_id": "4"
+},
+{
+	"id": "224",
+	"country_id": "226",
+	"code": "IN",
+	"name": "Indiana",
+	"cname": "印第安那",
+	"lower_name": "indiana",
+	"code_full": "USA0IN",
+	"area_id": "4"
+},
+{
+	"id": "225",
+	"country_id": "226",
+	"code": "KS",
+	"name": "Kansas",
+	"cname": "堪萨斯",
+	"lower_name": "kansas",
+	"code_full": "USA0KS",
+	"area_id": "6"
+},
+{
+	"id": "226",
+	"country_id": "226",
+	"code": "KY",
+	"name": "Kentucky",
+	"cname": "肯塔基",
+	"lower_name": "kentucky",
+	"code_full": "USA0KY",
+	"area_id": "5"
+},
+{
+	"id": "227",
+	"country_id": "226",
+	"code": "LA",
+	"name": "Louisiana",
+	"cname": "路易斯安那",
+	"lower_name": "louisiana",
+	"code_full": "USA0LA",
+	"area_id": "5"
+},
+{
+	"id": "228",
+	"country_id": "226",
+	"code": "MA",
+	"name": "Massachusetts",
+	"cname": "马萨诸塞",
+	"lower_name": "massachusetts",
+	"code_full": "USA0MA",
+	"area_id": "1"
+},
+{
+	"id": "229",
+	"country_id": "226",
+	"code": "MD",
+	"name": "Maryland",
+	"cname": "马里兰",
+	"lower_name": "maryland",
+	"code_full": "USA0MD",
+	"area_id": "2"
+},
+{
+	"id": "230",
+	"country_id": "226",
+	"code": "ME",
+	"name": "Maine",
+	"cname": "缅因",
+	"lower_name": "maine",
+	"code_full": "USA0ME",
+	"area_id": "1"
+},
+{
+	"id": "231",
+	"country_id": "226",
+	"code": "MI",
+	"name": "Michigan",
+	"cname": "密歇根",
+	"lower_name": "michigan",
+	"code_full": "USA0MI",
+	"area_id": "4"
+},
+{
+	"id": "232",
+	"country_id": "226",
+	"code": "MN",
+	"name": "Minnesota",
+	"cname": "明尼苏达",
+	"lower_name": "minnesota",
+	"code_full": "USA0MN",
+	"area_id": "6"
+},
+{
+	"id": "233",
+	"country_id": "226",
+	"code": "MO",
+	"name": "Missouri",
+	"cname": "密苏里",
+	"lower_name": "missouri",
+	"code_full": "USA0MO",
+	"area_id": "6"
+},
+{
+	"id": "234",
+	"country_id": "226",
+	"code": "MS",
+	"name": "Mississippi",
+	"cname": "密西西比",
+	"lower_name": "mississippi",
+	"code_full": "USA0MS",
+	"area_id": "5"
+},
+{
+	"id": "235",
+	"country_id": "226",
+	"code": "MT",
+	"name": "Montana",
+	"cname": "蒙大拿",
+	"lower_name": "montana",
+	"code_full": "USA0MT",
+	"area_id": "7"
+},
+{
+	"id": "236",
+	"country_id": "226",
+	"code": "NC",
+	"name": "North Carolina",
+	"cname": "北卡罗来纳",
+	"lower_name": "north carolina",
+	"code_full": "USA0NC",
+	"area_id": "3"
+},
+{
+	"id": "237",
+	"country_id": "226",
+	"code": "ND",
+	"name": "North Dakota",
+	"cname": "北达科他",
+	"lower_name": "north dakota",
+	"code_full": "USA0ND",
+	"area_id": "6"
+},
+{
+	"id": "238",
+	"country_id": "226",
+	"code": "NE",
+	"name": "Nebraska",
+	"cname": "内布拉斯加",
+	"lower_name": "nebraska",
+	"code_full": "USA0NE",
+	"area_id": "6"
+},
+{
+	"id": "239",
+	"country_id": "226",
+	"code": "NH",
+	"name": "New Hampshire",
+	"cname": "新罕布什尔",
+	"lower_name": "new hampshire",
+	"code_full": "USA0NH",
+	"area_id": "1"
+},
+{
+	"id": "240",
+	"country_id": "226",
+	"code": "NJ",
+	"name": "New Jersey",
+	"cname": "新泽西",
+	"lower_name": "new jersey",
+	"code_full": "USA0NJ",
+	"area_id": "2"
+},
+{
+	"id": "241",
+	"country_id": "226",
+	"code": "NM",
+	"name": "New Mexico",
+	"cname": "新墨西哥",
+	"lower_name": "new mexico",
+	"code_full": "USA0NM",
+	"area_id": "9"
+},
+{
+	"id": "242",
+	"country_id": "226",
+	"code": "NV",
+	"name": "Nevada",
+	"cname": "内华达",
+	"lower_name": "nevada",
+	"code_full": "USA0NV",
+	"area_id": "7"
+},
+{
+	"id": "243",
+	"country_id": "226",
+	"code": "NY",
+	"name": "New York",
+	"cname": "纽约",
+	"lower_name": "new york",
+	"code_full": "USA0NY",
+	"area_id": "2"
+},
+{
+	"id": "244",
+	"country_id": "226",
+	"code": "OH",
+	"name": "Ohio",
+	"cname": "俄亥俄",
+	"lower_name": "ohio",
+	"code_full": "USA0OH",
+	"area_id": "4"
+},
+{
+	"id": "245",
+	"country_id": "226",
+	"code": "OK",
+	"name": "Oklahoma",
+	"cname": "俄克拉荷马",
+	"lower_name": "oklahoma",
+	"code_full": "USA0OK",
+	"area_id": ""
+},
+{
+	"id": "246",
+	"country_id": "226",
+	"code": "OR",
+	"name": "Oregon",
+	"cname": "俄勒冈",
+	"lower_name": "oregon",
+	"code_full": "USA0OR",
+	"area_id": "8"
+},
+{
+	"id": "247",
+	"country_id": "226",
+	"code": "PA",
+	"name": "Pennsylvania",
+	"cname": "宾夕法尼亚",
+	"lower_name": "pennsylvania",
+	"code_full": "USA0PA",
+	"area_id": "2"
+},
+{
+	"id": "248",
+	"country_id": "226",
+	"code": "RI",
+	"name": "Rhode Island",
+	"cname": "罗德岛",
+	"lower_name": "rhode island",
+	"code_full": "USA0RI",
+	"area_id": "1"
+},
+{
+	"id": "249",
+	"country_id": "226",
+	"code": "SC",
+	"name": "South Carolina",
+	"cname": "南卡罗来纳",
+	"lower_name": "south carolina",
+	"code_full": "USA0SC",
+	"area_id": "3"
+},
+{
+	"id": "250",
+	"country_id": "226",
+	"code": "SD",
+	"name": "South Dakota",
+	"cname": "南达科他",
+	"lower_name": "south dakota",
+	"code_full": "USA0SD",
+	"area_id": "6"
+},
+{
+	"id": "251",
+	"country_id": "226",
+	"code": "TN",
+	"name": "Tennessee",
+	"cname": "田纳西",
+	"lower_name": "tennessee",
+	"code_full": "USA0TN",
+	"area_id": "5"
+},
+{
+	"id": "252",
+	"country_id": "226",
+	"code": "TX",
+	"name": "Texas",
+	"cname": "德克萨斯",
+	"lower_name": "texas",
+	"code_full": "USA0TX",
+	"area_id": "9"
+},
+{
+	"id": "253",
+	"country_id": "226",
+	"code": "UT",
+	"name": "Utah",
+	"cname": "犹他",
+	"lower_name": "utah",
+	"code_full": "USA0UT",
+	"area_id": "7"
+},
+{
+	"id": "254",
+	"country_id": "226",
+	"code": "VA",
+	"name": "Virginia",
+	"cname": "维吉尼亚",
+	"lower_name": "virginia",
+	"code_full": "USA0VA",
+	"area_id": "2"
+},
+{
+	"id": "255",
+	"country_id": "226",
+	"code": "VT",
+	"name": "Vermont",
+	"cname": "佛蒙特",
+	"lower_name": "vermont",
+	"code_full": "USA0VT",
+	"area_id": "1"
+},
+{
+	"id": "256",
+	"country_id": "226",
+	"code": "WA",
+	"name": "Washington",
+	"cname": "华盛顿",
+	"lower_name": "washington",
+	"code_full": "USA0WA",
+	"area_id": "8"
+},
+{
+	"id": "257",
+	"country_id": "226",
+	"code": "WI",
+	"name": "Wisconsin",
+	"cname": "威斯康星",
+	"lower_name": "wisconsin",
+	"code_full": "USA0WI",
+	"area_id": "4"
+},
+{
+	"id": "258",
+	"country_id": "226",
+	"code": "WV",
+	"name": "West Virginia",
+	"cname": "西佛吉尼亚",
+	"lower_name": "west virginia",
+	"code_full": "USA0WV",
+	"area_id": "2"
+},
+{
+	"id": "259",
+	"country_id": "226",
+	"code": "WY",
+	"name": "Wyoming",
+	"cname": "怀俄明",
+	"lower_name": "wyoming",
+	"code_full": "USA0WY",
+	"area_id": "7"
+}]
+}

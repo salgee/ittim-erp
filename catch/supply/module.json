@@ -1,0 +1,15 @@
+{
+    "name": "供应链",
+    "alias": "supply",
+    "description": "供应链管理",
+    "version": "1.0.0",
+    "keywords": [],
+    "order": 0,
+    "services": [
+        "\\catchAdmin\\supply\\SupplyService"
+    ],
+    "aliases": [],
+    "files": [],
+    "requires": [],
+    "enable": true
+}

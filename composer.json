@@ -1,0 +1,82 @@
+{
+    "name": "ittim/erp",
+    "description": "the api framework base on thinkphp, help you to create admin management soon",
+    "type": "project",
+    "keywords": [
+        "framework",
+        "catchadmin",
+        "api",
+        "ORM",
+        "erp"
+    ],
+    "homepage": "http://www.ittim.ltd",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "ittim",
+            "email": "hi@ittim.ltd"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "topthink/framework": "6.0.10",
+        "topthink/think-orm": "2.0.49",
+        "topthink/think-migration": "^3.0",
+        "thans/tp-jwt-auth": "1.1",
+        "overtrue/wechat": "^4.2",
+        "phpoffice/phpspreadsheet": "^1.12",
+        "dragonmantank/cron-expression": "3.1",
+        "symfony/finder": "^4.4",
+        "ext-json": "*",
+        "overtrue/easy-sms": "^1.1",
+        "jaguarjack/migration-generator": "dev-master",
+        "lcobucci/jwt": "3.3",
+        "jaguarjack/think-filesystem-cloud": "1.0",
+        "dts/ebay-sdk-php": "^18.0",
+        "mcs/amazon-mws": "^0.1.26",
+        "nicolab/php-ftp-client": "^1.5",
+        "sabas/edifact": "^0.5.1",
+        "lin3615/walmart_orders": "@dev",
+        "phpclassic/php-shopify": "^1.1",
+        "cdma-numiscorner/ebay-fulfillment-api": "^1.0",
+        "league/oauth2-client": "^2.6",
+        "clousale/amazon-sp-api-php": "^2.1",
+        "gabrielbull/ups-api": "^1.2",
+        "vinceg/usps-php-api": "^1.1",
+        "picqer/php-barcode-generator": "^2.2",
+        "spipu/html2pdf": "^5.2",
+        "topthink/think-view": "^1.0",
+        "aileshe/thumb": "*",
+        "setasign/fpdi": "^2.3",
+        "double-break/spapi-php": "^1.0"
+    },
+    "require-dev": {
+        "topthink/think-trace": "^1.0",
+        "symfony/var-dumper": "^5.1",
+        "swoole/ide-helper": "^4.5",
+        "nikic/php-parser": "^4.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app",
+            "catchAdmin\\": "catch"
+        },
+        "psr-0": {
+            "": "extend/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "catchAdmin\\tests\\": "tests"
+        }
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "scripts": {
+        "post-autoload-dump": [
+            "@php think service:discover",
+            "@php think vendor:publish"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "仓储管理",
+    "alias": "warehouse",
+    "description": "仓储管理模块",
+    "version": "1.0.0",
+    "keywords": [],
+    "order": 0,
+    "services": [
+        "\\catchAdmin\\warehouse\\WarehouseService"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "enable": true
+}

@@ -1,0 +1,15 @@
+{
+    "name": "财务管理",
+    "alias": "finance",
+    "description": "财务管理模块",
+    "version": "1.0.0",
+    "keywords": [],
+    "order": 0,
+    "services": [
+        "\\catchAdmin\\finance\\FinanceService"
+    ],
+    "aliases": [],
+    "files": [],
+    "requires": [],
+    "enable": true
+}

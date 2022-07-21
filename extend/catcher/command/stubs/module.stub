@@ -1,0 +1,15 @@
+{
+    "name": "{NAME}",
+    "alias": "{MODULE}",
+    "description": "{DESCRIPTION}",
+    "version": "1.0.0",
+    "keywords": [{KEYWORDS}],
+    "order": 0,
+    "services": [
+        "{SERVICE}"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "enable": true
+}

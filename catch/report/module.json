@@ -1,0 +1,15 @@
+{
+    "name": "报表管理",
+    "alias": "report",
+    "description": "报表管理",
+    "version": "1.0.0",
+    "keywords": ["报表"],
+    "order": 0,
+    "services": [
+        "\\catchAdmin\\report\\ReportService"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "enable": true
+}

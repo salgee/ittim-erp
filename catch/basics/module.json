@@ -1,0 +1,15 @@
+{
+    "name": "基础数据管理",
+    "alias": "basics",
+    "description": "基础数据管理",
+    "version": "1.0.0",
+    "keywords": [],
+    "order": 0,
+    "services": [
+        "\\catchAdmin\\basics\\BasicsService"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "enable": true
+}

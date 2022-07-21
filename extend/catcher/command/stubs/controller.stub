@@ -1,0 +1,45 @@
+<?php
+// +----------------------------------------------------------------------
+// | CatchAdmin [Just Like ～ ]
+// +----------------------------------------------------------------------
+// | Copyright (c) 2017~{$year} http://catchadmin.com All rights reserved.
+// +----------------------------------------------------------------------
+// | Licensed ( https://github.com/yanwenwu/catch-admin/blob/master/LICENSE.txt )
+// +----------------------------------------------------------------------
+// | Author: JaguarJack [ njphper@gmail.com ]
+// +----------------------------------------------------------------------
+
+namespace {NAMESPACE};
+
+use catcher\base\CatchController;
+
+class {CLASS} extends CatchController
+{
+    public function index()
+    {
+        return $this->fetch();
+    }
+
+    public function create()
+    {
+        return $this->fetch();
+    }
+
+    public function save()
+    {}
+
+    public function read()
+    {}
+
+    public function edit()
+    {
+        return $this->fetch();
+    }
+
+    public function update()
+    {}
+
+    public function delete()
+    {}
+
+}

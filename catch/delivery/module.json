@@ -1,0 +1,15 @@
+{
+    "name": "发货管理",
+    "alias": "delivery",
+    "description": "批量发货",
+    "version": "1.0.0",
+    "keywords": [],
+    "order": 0,
+    "services": [
+        "\\catchAdmin\\delivery\\DeliveryService"
+    ],
+    "aliases": [],
+    "files": [],
+    "requires": [],
+    "enable": true
+}

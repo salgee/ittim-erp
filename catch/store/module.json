@@ -1,0 +1,15 @@
+{
+    "name": "店铺管理",
+    "alias": "store",
+    "description": "店铺管理",
+    "version": "1.0.0",
+    "keywords": [],
+    "order": 0,
+    "services": [
+        "\\catchAdmin\\store\\StoreService"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "enable": true
+}

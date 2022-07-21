@@ -1,0 +1,15 @@
+{
+    "name": "客户结算",
+    "alias": "settlement",
+    "description": "客户结算",
+    "version": "1.0.0",
+    "keywords": [],
+    "order": 0,
+    "services": [
+        "\\catchAdmin\\settlement\\SettlementService"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "enable": true
+}
